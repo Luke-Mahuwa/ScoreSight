@@ -1,2 +1,3 @@
 # ScoreSight
-A python website which shows stats of playing games
+A python website which shows stats of football matches
+
